@@ -1,0 +1,1 @@
+# Proje2-www.patika.dev
