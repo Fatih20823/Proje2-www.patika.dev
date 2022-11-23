@@ -19,6 +19,7 @@
 5. Her bölünmüş parçayı birleştir ve birleştirirken sıraya dikkat ederek birleştir (1. ve 2. parçalar ile 3. ve 4. parçalar aynı gruptan bölünmüştü)
 
 6,11,21 ve 8,12,22
+
 6. adım, tek bir bütün parça olmadığı için birleştirmeye devam et
 
 6,8,11,12,21,22
